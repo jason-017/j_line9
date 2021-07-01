@@ -1,9 +1,8 @@
 ### IT 공부 내용을 정리하는공간입니다.
 ### 주로 data와 관련된 내용을 업로드할 예정입니다.
-
 <br>
-### <__init__>
 
+### <__init__>
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
