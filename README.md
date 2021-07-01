@@ -2,8 +2,8 @@
 ### 주로 data와 관련된 내용을 업로드할 예정입니다.
 
 
-<br><br><br><br>
-### __init__
+<br><br>
+### <__init__>
 usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
            [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
